@@ -1,16 +1,17 @@
-## Hi there 👋
+## 자기소개
+컴퓨터공학을 전공하고 있는 꿈나무 대학생
+- 이름: minki73
+- 사용 가능한 기술 스택: C++, python
+- 관심 분야: 게임, 데이터
+- 연락처: aldrl009@gmail.com
 
-<!--
-**minki73/minki73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 진행 중인 프로젝트
+- 프로젝트명: OpenQuest
+- 소개:
+- 링크:
+- 목적:
 
-Here are some ideas to get you started:
+## 프로젝트 내 역할
+OpenQuest 내에서 행맨 게임과 벽돌깨기 게임의 개발을 담당하고 있습니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub 활동 내역
