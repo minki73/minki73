@@ -16,3 +16,5 @@
 - 행맨 게임과 벽돌깨기 게임의 시스템 구현, 디자인, 테스트 등 전체적인 과정을 서로 의논하여 총괄 관리하고 있습니다.
 
 ## GitHub 활동 내역
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minki73&theme=github)
+![GitHub Metrics](https://metrics.lecoq.io/minki73)
